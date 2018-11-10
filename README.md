@@ -1,8 +1,12 @@
-# Laravel-Official-Documentation
-  Official Documentation of Laravel 5.4
+# Laravel Official Documnetation on PDF
 
 
-  If you need documentation for 5.3,5.2 etc. then send me issue I will add it :)
+# Future
+* Make script to generate and add it on github for every branch of laravel docs.
 
-  Help me to publish in Lean Pub by donating.
-  If you want to donate me kindly contact bloggervista@gmail.com
+
+Help me to complete future feature by donating. If you want please contact me directly as `shirshak55@gmail.com`
+
+
+Thanks,
+Shirshak Bajgain
