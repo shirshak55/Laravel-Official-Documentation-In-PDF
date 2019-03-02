@@ -1,5 +1,6 @@
 # Laravel Official Documnetation on PDF
 
+Current Version: 5.8
 
 # Future
 * Make script to generate and add it on github for every branch of laravel docs.
