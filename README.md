@@ -1,4 +1,4 @@
-# Laravel Official Documnetation on PDF
+# Laravel Official Documentation {PDF Version}
 
 Current Version: 5.8
 
